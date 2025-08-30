@@ -1,3 +1,6 @@
+# The error in the Video at 6:25 and 7:48 is due to open router api being disabled else the code is working as intended
+
+
 # Smart Fuel Management Platform for SMB Fleets
 
 A web-based fuel tracking and management solution tailored for small and medium-sized business (SMB) fleets. Built with PHP, JavaScript, CSS, HTML, and Hack, this platform empowers fleet operators to monitor fuel usage, manage vehicles and drivers, process receipts, and optimize fleet routes.
