@@ -3,7 +3,7 @@
 
 # Smart Fuel Management Platform for SMB Fleets
 
-A web-based fuel tracking and management solution tailored for small and medium-sized business (SMB) fleets. Built with PHP, JavaScript, CSS, HTML, and Hack, this platform empowers fleet operators to monitor fuel usage, manage vehicles and drivers, process receipts, and optimize fleet routes.
+A web-based fuel tracking and management solution tailored for small and medium-sized business (SMB) fleets. Built with PHP, JavaScript, CSS and HTML, this platform empowers fleet operators to monitor fuel usage, manage vehicles and drivers, process receipts, and optimize fleet routes.
 
 ---
 
@@ -33,7 +33,7 @@ This platform helps SMB fleet operators streamline fuel management by providing:
 
 ## Tech Stack
 
-- **Backend:** PHP, Hack
+- **Backend:** PHP
 - **Frontend:** HTML, CSS, JavaScript
 - **UI Enhancements:** Custom JS and CSS
 - **Authentication:** PHP sessions
